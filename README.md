@@ -49,4 +49,3 @@ The Product Report file is a comma-separated text file where each line summarize
 - GrossRevenue – gross revenue of sales of the Product
 - TotalUnits – total number of units sold in the Product
 - DiscountCost – total cost of all discounts provided on sales of the Product
-# revenue_report
